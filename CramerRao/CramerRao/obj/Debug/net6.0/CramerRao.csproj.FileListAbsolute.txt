@@ -1,0 +1,15 @@
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\bin\Debug\net6.0\CramerRao.exe
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\bin\Debug\net6.0\CramerRao.deps.json
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\bin\Debug\net6.0\CramerRao.runtimeconfig.json
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\bin\Debug\net6.0\CramerRao.dll
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\bin\Debug\net6.0\CramerRao.pdb
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\obj\Debug\net6.0\CramerRao.csproj.AssemblyReference.cache
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\obj\Debug\net6.0\CramerRao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\obj\Debug\net6.0\CramerRao.AssemblyInfoInputs.cache
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\obj\Debug\net6.0\CramerRao.AssemblyInfo.cs
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\obj\Debug\net6.0\CramerRao.csproj.CoreCompileInputs.cache
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\obj\Debug\net6.0\CramerRao.dll
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\obj\Debug\net6.0\refint\CramerRao.dll
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\obj\Debug\net6.0\CramerRao.pdb
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\obj\Debug\net6.0\CramerRao.genruntimeconfig.cache
+C:\Users\alp.ceyhan\Desktop\MT Örnekler\Yeni SOLID\CramerRao\CramerRao\obj\Debug\net6.0\ref\CramerRao.dll
